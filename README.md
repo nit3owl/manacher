@@ -1,7 +1,7 @@
 # [manacher](https://github.com/nit3owl/manacher)
 
 An implementation of the [Longest Palindromic Substring algorithm](https://en.wikipedia.org/wiki/Longest_palindromic_substring) designed by
-Gelnn Manacher. This algorithm finds the longest palindrome in a substring in linear time. '
+Gelnn Manacher. This algorithm finds the longest palindrome in a substring in linear time.
 
 Eg - the longest palindrome in the string "loljabcdedcbartotrl" is "abcdedcba". note that there is a shorter palindrome "lol" first and another shorter
 palindrome "rtotr" after, but neither is the longest.
