@@ -1,5 +1,8 @@
 bin/
 target/
 .idea/
+.project
+.classpath
 *~
 *.iml
+
