@@ -1,6 +1,7 @@
-package main.java.manacher;
+package io.github.nit3owl.manacher.manacher;
 
 public class ManacherMain{
+
 	private static final String USAGE_MESSAGE = "usage: java ManacherMain <string>";
 	
     public static void main(String[] args){

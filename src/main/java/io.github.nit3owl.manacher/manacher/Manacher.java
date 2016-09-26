@@ -1,4 +1,4 @@
-package main.java.manacher;
+package io.github.nit3owl.manacher.manacher;
 
 public class Manacher{
     private Manacher(){ }
